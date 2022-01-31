@@ -10,3 +10,7 @@
   height: 30px;
   object-fit: contain;
 }
+
+.header__icon {
+  padding: 20px;
+}
