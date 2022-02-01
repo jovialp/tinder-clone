@@ -1,8 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './tinderCard.css';
 
 const TinderCard = () => {
-  return <div className="header"></div>;
+  const [people, setPeople] = useState([]);
+
+  return <div className="tinderCards"></div>;
 };
 
 export default TinderCard;
