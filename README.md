@@ -2,4 +2,4 @@
 
 Using ReactJS
 
-[Edit on StackBlitz ⚡️](https://jvl-react-tinder-clone.stackblitz.io)
+[View on StackBlitz ⚡️](https://jvl-react-tinder-clone.stackblitz.io)
